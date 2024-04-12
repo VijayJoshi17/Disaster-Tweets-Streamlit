@@ -71,4 +71,4 @@ To run the Streamlit app, follow these steps:
 
 ## Credits
 
-This project was developed by [Vijay Joshi].
+This project was developed by Vijay Joshi.
