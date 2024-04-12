@@ -1,6 +1,7 @@
 # Disaster-Tweets-Streamlit
 
 This project contains a Streamlit app which includes visualizations and predictions on the Disaster Tweets Dataset.
+Download the dataset from [here](https://www.kaggle.com/competitions/nlp-getting-started/data?select=train.csv)
 
 ## Demo
 This the working demo of the project:
@@ -53,7 +54,7 @@ To run the Streamlit app, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/Disaster-Tweets-Streamlit.git
+    git clone https://github.com/VijayJoshi17/Disaster-Tweets-Streamlit
     ```
 
 2. Install the required dependencies:
@@ -70,4 +71,4 @@ To run the Streamlit app, follow these steps:
 
 ## Credits
 
-This project was developed by [Your Name].
+This project was developed by [Vijay Joshi].
