@@ -3,8 +3,9 @@
 This project contains a Streamlit app which includes visualizations and predictions on the Disaster Tweets Dataset.
 
 ## Demo
+This the working demo of the project:
 
-You can find a working demo of the project [here](https://user-images.githubusercontent.com/96180147/e05f765e-d709-4a1b-86cc-2ac6d16e3066).
+https://user-images.githubusercontent.com/96180147/e05f765e-d709-4a1b-86cc-2ac6d16e3066
 
 ## Description
 
