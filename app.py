@@ -18,7 +18,7 @@ from wordcloud import WordCloud
 from PIL import Image
 
 # Load the dataset
-TRAIN_DATA_URL = "D:/KAGGLE/disaster tweets/train.csv"
+TRAIN_DATA_URL = "./train.csv"
 
 @st.cache_data(persist=True)
 def load_train_data():
