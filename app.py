@@ -36,7 +36,7 @@ st.title('Disaster Tweet Analysis')
 st.write('This is a project about Disaster Tweets and classfying them into disaster related or not.')
 st.write("Download the dataset from [here](https://www.kaggle.com/competitions/nlp-getting-started/data?select=train.csv)")
 
-image_path = "D:\Downloads_new\yosh-ginsu-qexZLgMcbPc-unsplash.jpg"
+image_path = "images\yosh-ginsu-qexZLgMcbPc-unsplash.jpg"
 try:
     with Image.open(image_path) as img:
         st.image(img, use_column_width=True)
